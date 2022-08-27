@@ -14,6 +14,7 @@ public class Exercise06_ElectricBill {
     private final double BASIC_SERVICE_LIMIT = 100.0;
     private final double EXCESS_SERVICE_RATE = 0.25;
     private final double RENEWABLE_ENERGY_DISCOUNT = 0.05;
+    private final double BASIC_SERVICE_MAX_COST = BASIC_SERVICE_LIMIT * BASIC_SERVICE_RATE;
 
     /*
     Using Tech Electric's simple pricing model, calculate a customer's bill for the units they've used.
@@ -24,7 +25,13 @@ public class Exercise06_ElectricBill {
     calculateElectricBill(110) ➔ 22.5
      */
     public double calculateElectricBill(double unitsUsed) {
-        return 0;
+        if (unitsUsed > BASIC_SERVICE_LIMIT) {
+            double billTotal = ((unitsUsed - BASIC_SERVICE_LIMIT) * EXCESS_SERVICE_RATE) + BASIC_SERVICE_MAX_COST;
+            return billTotal;
+        } else {
+            double billTotal = unitsUsed * BASIC_SERVICE_RATE;
+            return billTotal;
+        }
     }
 
     /*
@@ -40,7 +47,19 @@ public class Exercise06_ElectricBill {
     calculateElectricBill(110, true) ➔ 21.375
      */
     public double calculateElectricBill(double unitsUsed, boolean hasRenewableEnergy) {
-        return 0;
+        if (unitsUsed > BASIC_SERVICE_LIMIT && hasRenewableEnergy) {
+            double billTotal = (((unitsUsed - BASIC_SERVICE_LIMIT) * EXCESS_SERVICE_RATE) + BASIC_SERVICE_MAX_COST) * (1 - RENEWABLE_ENERGY_DISCOUNT);
+            return billTotal;
+        } else if (unitsUsed > BASIC_SERVICE_LIMIT) {
+            double billTotal = ((unitsUsed - BASIC_SERVICE_LIMIT) * EXCESS_SERVICE_RATE) + BASIC_SERVICE_MAX_COST;
+            return billTotal;
+        } else if (hasRenewableEnergy) {
+            double billTotal = (unitsUsed * BASIC_SERVICE_RATE) * (1 - RENEWABLE_ENERGY_DISCOUNT);
+            return billTotal;
+        } else {
+            double billTotal = unitsUsed * BASIC_SERVICE_RATE;
+            return billTotal;
+        }
     }
 
     /*
@@ -66,6 +85,22 @@ public class Exercise06_ElectricBill {
     calculateElectricBill(110, 120) ➔ -2.0
      */
     public double calculateElectricBill(double unitsUsed, double unitsReturned) {
-        return 0;
+        double netUsage = unitsUsed - unitsReturned;
+        if (netUsage > BASIC_SERVICE_LIMIT && unitsReturned > 0) {
+            double billTotal = (((netUsage - BASIC_SERVICE_LIMIT) * EXCESS_SERVICE_RATE) + BASIC_SERVICE_MAX_COST) * (1 - RENEWABLE_ENERGY_DISCOUNT);
+            return billTotal;
+        } else if (netUsage > BASIC_SERVICE_LIMIT) {
+            double billTotal = ((netUsage - BASIC_SERVICE_LIMIT) * EXCESS_SERVICE_RATE) + BASIC_SERVICE_MAX_COST;
+            return billTotal;
+        } else if ( unitsReturned > unitsUsed) {
+            double billTotal = netUsage * BASIC_SERVICE_RATE;
+            return billTotal;
+        } else if (unitsReturned > 0) {
+            double billTotal = (netUsage * BASIC_SERVICE_RATE) * (1 - RENEWABLE_ENERGY_DISCOUNT);
+            return billTotal;
+        } else {
+            double billTotal = netUsage * BASIC_SERVICE_RATE;
+            return billTotal;
+        }
     }
 }

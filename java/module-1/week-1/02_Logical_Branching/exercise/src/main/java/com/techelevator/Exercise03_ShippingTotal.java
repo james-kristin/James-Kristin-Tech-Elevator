@@ -11,6 +11,8 @@ public class Exercise03_ShippingTotal {
     private final int MAX_WEIGHT_POUNDS = 40;
     private final double UP_TO_40_LB_RATE = 0.50;
     private final double OVER_40_LB_RATE = 0.75;
+    private final double RATE_OF_40_LB = (MAX_WEIGHT_POUNDS * UP_TO_40_LB_RATE);
+    private final double DISCOUNT_RATE = 0.9;
 
     /*
     Scamper Shipping Company charges $0.50 per pound up to 40 pounds. After that, it's $0.75 for each additional pound.
@@ -22,7 +24,13 @@ public class Exercise03_ShippingTotal {
     calculateShippingTotal(45) ➔ 23.75
      */
     public double calculateShippingTotal(int weightPounds) {
-        return 0;
+        if (weightPounds <= MAX_WEIGHT_POUNDS) {
+            double shippingRate = weightPounds * UP_TO_40_LB_RATE;
+            return shippingRate;
+        } else {
+            double shippingRate = RATE_OF_40_LB + ((weightPounds - MAX_WEIGHT_POUNDS) * OVER_40_LB_RATE);
+            return shippingRate;
+        }
     }
 
     /*
@@ -38,7 +46,19 @@ public class Exercise03_ShippingTotal {
     calculateShippingTotal(45, true) ➔ 21.375
      */
     public double calculateShippingTotal(int weightPounds, boolean hasDiscount) {
-        return 0;
+        if (weightPounds <= MAX_WEIGHT_POUNDS && hasDiscount) {
+           double shippingRate = (weightPounds * UP_TO_40_LB_RATE) * DISCOUNT_RATE;
+            return shippingRate;
+        } else if (weightPounds <= MAX_WEIGHT_POUNDS) {
+            double shippingRate = weightPounds * UP_TO_40_LB_RATE;
+            return shippingRate;
+        } else if (hasDiscount) {
+            double shippingRate = (RATE_OF_40_LB + ((weightPounds - MAX_WEIGHT_POUNDS) * OVER_40_LB_RATE)) * DISCOUNT_RATE;
+            return shippingRate;
+        } else {
+         double shippingRate = RATE_OF_40_LB + ((weightPounds - MAX_WEIGHT_POUNDS) * OVER_40_LB_RATE);
+         return shippingRate;
+        }
     }
 
     /*
@@ -53,6 +73,22 @@ public class Exercise03_ShippingTotal {
     calculateShippingTotal(45, 0.2) ➔ 19.0
      */
     public double calculateShippingTotal(int weightPounds, double discountPercentage) {
-        return 0;
+            if (weightPounds <= MAX_WEIGHT_POUNDS && discountPercentage > 0) {
+                double shippingRate = (weightPounds * UP_TO_40_LB_RATE) * (1 - discountPercentage);
+                return shippingRate;
+            }else if (weightPounds <= MAX_WEIGHT_POUNDS){
+                double shippingRate = weightPounds * UP_TO_40_LB_RATE;
+                return shippingRate;
+            } else if (discountPercentage > 0) {
+                double shippingRate = (RATE_OF_40_LB + ((weightPounds - MAX_WEIGHT_POUNDS) * OVER_40_LB_RATE)) * (1 - discountPercentage);
+                return shippingRate;
+            } else {
+                double shippingRate = RATE_OF_40_LB + ((weightPounds - MAX_WEIGHT_POUNDS) * OVER_40_LB_RATE);
+                return shippingRate;
+            }
+
+
+
+
     }
 }
