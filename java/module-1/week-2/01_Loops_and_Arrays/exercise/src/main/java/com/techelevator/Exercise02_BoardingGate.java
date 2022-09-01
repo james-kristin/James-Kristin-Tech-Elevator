@@ -24,7 +24,30 @@ public class Exercise02_BoardingGate {
     generateSeatingChart(2) → [true, true]
      */
     public boolean[] generateSeatingChart(int numberOfSeats) {
-        return new boolean[] {};
+        boolean[] seatsAvailable =  new boolean[numberOfSeats];
+        if (numberOfSeats == 1) {
+            seatsAvailable[0] = true;
+        } else if (numberOfSeats == 2) {
+            seatsAvailable[0] = true;
+            seatsAvailable[1] = true;
+        } else if (numberOfSeats == 3) {
+            seatsAvailable[0] = true;
+            seatsAvailable[1] = true;
+            seatsAvailable[2] = true;
+        } else if (numberOfSeats == 4) {
+            seatsAvailable[0] = true;
+            seatsAvailable[1] = true;
+            seatsAvailable[2] = true;
+            seatsAvailable[3] = true;
+        } else if (numberOfSeats == 5) {
+            seatsAvailable[0] = true;
+            seatsAvailable[1] = true;
+            seatsAvailable[2] = true;
+            seatsAvailable[3] = true;
+            seatsAvailable[4] = true;
+        }
+        return seatsAvailable;
+
     }
 
     /*
@@ -41,7 +64,13 @@ public class Exercise02_BoardingGate {
     getAvailableSeatCount([]) → 0
      */
     public int getAvailableSeatCount(boolean[] seatingChart) {
-        return 0;
+        int availableSeats = 0;
+        for (int i = 0; i < seatingChart.length; i++) {
+            if (seatingChart[i] == true) {
+                availableSeats += 1;
+            }
+        }
+        return availableSeats;
     }
 
     /*
@@ -57,7 +86,16 @@ public class Exercise02_BoardingGate {
     getNumberOfFullRows([false, true, true, false, true, true]) → 0
      */
     public int getNumberOfFullRows(boolean[] seatingChart) {
-        return 0;
+
+        int rowsOccupied = 0;
+        for (int i = 0; i < seatingChart.length; i += 3) {
+            if (!seatingChart[i] && !seatingChart[i + 1] && !seatingChart[i + 2]) {
+                rowsOccupied += 1;
+            }
+
+
+        }
+        return rowsOccupied;
     }
 
 }

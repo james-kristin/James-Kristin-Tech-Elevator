@@ -38,7 +38,7 @@ public class Tutorial {
 
         System.out.println("The highest temperature is " + highestTemperatureValue);
 
-        
+
         if (highestTemperatureindex == tomorrow) {
             System.out.println("The highest temperature is tomorrow");
         } else {
