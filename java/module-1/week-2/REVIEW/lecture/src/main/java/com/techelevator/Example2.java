@@ -1,5 +1,7 @@
 package com.techelevator;
 
+import java.util.Locale;
+
 public class Example2 {
 
     /*
@@ -11,7 +13,14 @@ public class Example2 {
 	 roundOnBothEnds("ooooo!") → false
 	*/
     public boolean roundOnBothEnds(String input) {
-        return false;
+        String trimmedInput = input.trim().toLowerCase();
+
+        boolean result = false;
+        if (trimmedInput.startsWith("o") && trimmedInput.endsWith("o")){
+            result = true;
+        }
+        return result;
+
     }
 
     /*
