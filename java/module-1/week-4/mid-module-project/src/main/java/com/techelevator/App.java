@@ -31,13 +31,13 @@ public class App {
     private void loadData() {
 
         String[] dataset = Dataset.load();
-        Arrays.sort(dataset);
+
         for (String data : dataset) {
            String[] splitData = data.split(FIELD_DELIMITER);
-           titles.add(splitData[0]);
-           authors.add(splitData[1]);
-           publishedYears.add(Integer.parseInt(splitData[2]));
-           prices.add(BigDecimal.valueOf(Double.parseDouble(splitData[3])));
+           titles.add(splitData[TITLE_FIELD]);
+           authors.add(splitData[AUTHOR_FIELD]);
+           publishedYears.add(Integer.parseInt(splitData[PUBLISHED_YEAR_FIELD]));
+           prices.add(BigDecimal.valueOf(Double.parseDouble(splitData[PRICE_FIELD])));
         }
     }
 
@@ -157,16 +157,32 @@ public class App {
 
 
      private void displaySearchResults(List<Integer> indexes, int primaryField){
-
+        List<String> sortedList = new ArrayList<>();
+        Map<String, Integer> sortedMap = new HashMap<>();
 
         if(primaryField == TITLE_FIELD) {
             for (int index : indexes) {
-                System.out.println(titles.get(index) + ": " + authors.get(index) + ": " + publishedYears.get(index) + ": $" + prices.get(index));
+                sortedList.add(titles.get(index));
             }
+
+            Collections.sort(sortedList);
+
+            for (String title : sortedList) {
+                System.out.println(title + ": " + authors.get(titles.indexOf(title)) + ": " + publishedYears.get(titles.indexOf(title)) + ": $" + prices.get(titles.indexOf(title)));
+            }
+
         } else if (primaryField == AUTHOR_FIELD) {
             for (int index : indexes) {
+//               sortedMap.put(authors.get(index), index);
                 System.out.println(authors.get(index) + ": " + titles.get(index) + ": " + publishedYears.get(index) + ": $" + prices.get(index));
             }
+
+//            Collections.sort(sortedList);
+
+//            for (String author : sortedList) {
+//                System.out.println(author + ": " + titles.get(authors.indexOf(author)) + ": " + publishedYears.get(authors.indexOf(author)) + ": $" + prices.get(authors.indexOf(author)));
+//           }
+
         } else if (primaryField == PUBLISHED_YEAR_FIELD) {
             for (int index : indexes) {
                 System.out.println(publishedYears.get(index) + ": " + titles.get(index) + ": " + authors.get(index) + ": $" + prices.get(index));
@@ -187,8 +203,7 @@ public class App {
     private List<Integer> filterByTitle(String filterTitle) {
         List<Integer> indexes = new ArrayList<>();
         for (String title : titles) {
-            String shortTitle = title.substring(0, filterTitle.length());
-            if (filterTitle.equalsIgnoreCase(shortTitle)) {
+            if ((title.toLowerCase()).contains(filterTitle.toLowerCase())) {
                 indexes.add(titles.indexOf(title));
             }
         }
@@ -204,10 +219,9 @@ public class App {
      */
     private List<Integer> filterByAuthor(String filterAuthor) {
         List<Integer> indexes = new ArrayList<>();
-        for (String author : authors) {
-            String shortAuthor = author.substring(0, filterAuthor.length());
-            if (filterAuthor.equalsIgnoreCase(shortAuthor)) {
-                indexes.add(authors.indexOf(author));
+        for (int i = 0; i < authors.size(); i++) {
+            if (((authors.get(i)).toLowerCase()).contains(filterAuthor.toLowerCase())) {
+                indexes.add(i);
             }
         }
         return indexes;
