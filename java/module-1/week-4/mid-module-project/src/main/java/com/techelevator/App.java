@@ -174,6 +174,7 @@ public class App {
         } else if (primaryField == AUTHOR_FIELD) {
             for (int index : indexes) {
 //               sortedMap.put(authors.get(index), index);
+
                 System.out.println(authors.get(index) + ": " + titles.get(index) + ": " + publishedYears.get(index) + ": $" + prices.get(index));
             }
 
