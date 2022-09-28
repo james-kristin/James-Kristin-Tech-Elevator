@@ -1,6 +1,6 @@
 package com.techelevator;
 
-public class MediaItem {
+public class MediaItem implements Purchasable {
     protected String title;
     protected double price;
 
@@ -12,6 +12,7 @@ public class MediaItem {
         this.title = title;
     }
 
+    @Override
     public double getPrice() {
         return price;
     }
