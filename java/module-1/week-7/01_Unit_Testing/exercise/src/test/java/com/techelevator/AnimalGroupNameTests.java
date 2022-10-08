@@ -64,7 +64,7 @@ public class AnimalGroupNameTests {
         // Arrange - @Before
 
         // Act - get herd for null
-        String herd = animals.getHerd("null");
+        String herd = animals.getHerd(null);
 
         // Assert - make sure herd is unknown
         Assert.assertEquals("unknown", herd);

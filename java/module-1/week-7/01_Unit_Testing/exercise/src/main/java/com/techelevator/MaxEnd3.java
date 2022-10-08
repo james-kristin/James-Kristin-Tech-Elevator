@@ -10,6 +10,9 @@ public class MaxEnd3 {
      MakeArray([2, 11, 3]) → [3, 3, 3]
      */
     public int[] makeArray(int[] nums) {
+        if (nums.length != 3) {
+            return nums;
+        }
         int largerNum = (nums[0] > nums[nums.length - 1]) ? nums[0] : nums[nums.length - 1];
 
         for (int i = 0; i < nums.length; i++) {
