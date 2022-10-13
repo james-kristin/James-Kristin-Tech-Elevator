@@ -16,7 +16,7 @@ public class WordSearch {
 		System.out.println("what is the word you are searching for?");
 		String searchWord = userInput.nextLine();
 
-		System.out.println("Should the search be case sensitive");
+		System.out.println("Should the search be case sensitive?(Y/N)");
 		String caseSensitivity = userInput.nextLine();
 		boolean isCaseSensitive = false;
 
