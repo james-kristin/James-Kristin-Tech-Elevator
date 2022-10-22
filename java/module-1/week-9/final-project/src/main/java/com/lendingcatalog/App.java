@@ -2,6 +2,9 @@ package com.lendingcatalog;
 
 import com.lendingcatalog.model.*;
 
+import java.io.File;
+import java.io.FileNotFoundException;
+import java.time.LocalDate;
 import java.util.*;
 
 public class App {
@@ -23,6 +26,48 @@ public class App {
 
     private void initialize() {
         // Requirement: Data transformation
+        File memberDat = new File(FILE_BASE_PATH + "/members.dat");
+        try (Scanner memberInput = new Scanner(memberDat)) {
+
+            while (memberInput.hasNextLine()) {
+                String[] memberLine = memberInput.nextLine().split(FIELD_DELIMITER);
+                Member newMember;
+                File itemFile;
+                List<CatalogItem> catalogItems = new ArrayList<>();
+                if (memberLine.length < 3) {
+                    continue;
+                } else {
+                    newMember = new Member(memberLine[0], memberLine[1]);
+                }
+                itemFile = new File(FILE_BASE_PATH + "/" + memberLine[2]);
+                try (Scanner itemInput = new Scanner(itemFile)) {
+                    while (itemInput.hasNextLine()) {
+                        String[] itemLine = itemInput.nextLine().split(FIELD_DELIMITER);
+                        if (itemLine.length < 4) {
+                            continue;
+                        } else if (itemLine[0].equalsIgnoreCase("Book")) {
+                            Book newBook = new Book(itemLine[1], itemLine[2], itemLine[3]);
+                            newBook.registerItem();
+                            catalogItems.add(newBook);
+
+                        } else if (itemLine[0].equalsIgnoreCase("Movie")) {
+                            Movie newMovie = new Movie(itemLine[1], itemLine[2], LocalDate.parse(itemLine[3]));
+                            newMovie.registerItem();
+                            catalogItems.add(newMovie);
+                        } else if (itemLine[0].equalsIgnoreCase("Tool")) {
+                            Tool newTool = new Tool(itemLine[1], itemLine[2], Integer.parseInt(itemLine[3]));
+                            newTool.registerItem();
+                            catalogItems.add(newTool);
+                        } else {
+                            System.out.println("Invalid File Type");
+                        }
+                    }
+                }
+                catalog.put(newMember.toString(), catalogItems);
+            }
+        } catch (FileNotFoundException e) {
+            System.err.println("File could not be found!");
+        }
 
     }
 

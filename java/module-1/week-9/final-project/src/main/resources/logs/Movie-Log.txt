@@ -1,0 +1,456 @@
+2022-10-22T18:09:56.272839700- new * Home Alone
+ - Directed by: Chris Columbus
+ - Released: 1990-11-16
+ - Id: 9cba6676-17db-4832-8f7b-e3e0350d2e02created
+2022-10-22T18:09:56.274339400- new * Jurassic Park
+ - Directed by: Steven Spielberg
+ - Released: 1993-06-11
+ - Id: e3329f2d-ccf9-4865-b07a-4a9013839111created
+2022-10-22T18:09:56.281339100- new * Memento
+ - Directed by: Christopher Nolan
+ - Released: 2000-10-11
+ - Id: c1c4a345-9910-454c-a8a5-2a4396a9c0f8created
+2022-10-22T18:09:56.281839200- new * Inception
+ - Directed by: Christopher Nolan
+ - Released: 2010-07-15
+ - Id: ff1dfe59-bf92-4904-83f7-0ff4828f770ccreated
+2022-10-22T18:09:56.282339200- new * Interstellar
+ - Directed by: Christopher Nolan
+ - Released: 2014-11-05
+ - Id: 7578c12e-f42c-49c1-bd33-32fc9f7262c3created
+2022-10-22T18:09:56.282838900- new * Rouge One
+ - Directed by: Gareth Edwards
+ - Released: 2016-12-16
+ - Id: 10ae0868-12d2-4f04-94b7-1c17a62bfbe6created
+2022-10-22T18:09:56.282982700- new * Contact
+ - Directed by: Robert Zemeckis
+ - Released: 1997-07-11
+ - Id: 20d1a1c7-37df-42d0-9470-25424811a7e7created
+2022-10-22T18:09:56.283339100- new * Jurassic Park
+ - Directed by: Steven Spielberg
+ - Released: 1993-06-11
+ - Id: 64fe1841-ab8b-44cc-833d-7b2e959cc227created
+2022-10-22T18:09:56.283510100- new * The Hitchhiker's Guide to the Galaxy
+ - Directed by: Garth Jennings
+ - Released: 2005-04-28
+ - Id: a609762f-4fee-4396-9d01-d0b16d1fc18dcreated
+2022-10-22T18:09:56.283839- new * Star Wars
+ - Directed by: George Lucas
+ - Released: 1977-05-25
+ - Id: f07607a7-62de-42f5-9090-c0e61e420d5acreated
+2022-10-22T18:09:56.283839- new * Star Trek
+ - Directed by: J.J. Abrams
+ - Released: 2009-05-06
+ - Id: f6195179-d964-48f6-823f-b2e17116abb2created
+2022-10-22T18:09:56.284339- new * Star Trek Into Darkness
+ - Directed by: J.J. Abrams
+ - Released: 2013-05-05
+ - Id: a6603338-a96f-4457-a693-65c3e68c6867created
+2022-10-22T18:09:56.284994700- new * Forrest Gump
+ - Directed by: Robert Zemeckis
+ - Released: 1994-07-06
+ - Id: a5d48705-122e-42d4-b699-fd754b7bc596created
+2022-10-22T18:09:56.285339- new * Cast Away
+ - Directed by: Robert Zemeckis
+ - Released: 2000-12-22
+ - Id: 22db8a27-19d7-4b77-97c7-bc351bd9451dcreated
+2022-10-22T18:09:56.285839- new * The Fifth Element
+ - Directed by: Luc Besson
+ - Released: 1997-05-02
+ - Id: 52ff4741-7f0e-40cc-beba-5366bbd821a8created
+2022-10-22T18:09:56.285839- new * Close Encounters of the Third Kind
+ - Directed by: Steven Spielberg
+ - Released: 1977-11-18
+ - Id: 9163fad3-66a1-4a6f-9289-e2bb2b84418ecreated
+2022-10-22T18:09:56.286839- new * Star Wars
+ - Directed by: George Lucas
+ - Released: 1977-05-25
+ - Id: 211f576d-433f-48de-bc4c-1a4f4ad39e7acreated
+2022-10-22T18:09:56.287339- new * Jurassic Park
+ - Directed by: Steven Spielberg
+ - Released: 1993-06-11
+ - Id: 18435810-1c60-4836-8989-a66f343c8652created
+2022-10-22T18:09:56.287841- new * The Hitchhiker's Guide to the Galaxy
+ - Directed by: Garth Jennings
+ - Released: 2005-04-28
+ - Id: cfc8d0fc-3371-43b5-b733-1e20f310be11created
+2022-10-22T18:09:56.288839100- new * Finding Nemo
+ - Directed by: Andrew Stanton
+ - Released: 2003-05-30
+ - Id: 57c5191a-99ad-4131-9143-e67d1c2a6826created
+2022-10-22T18:09:56.288839100- new * WALL·E
+ - Directed by: Andrew Stanton
+ - Released: 2008-06-22
+ - Id: ee413f4a-4f9a-4ffe-9f02-681aa4c80587created
+2022-10-22T18:09:56.289172- new * Coco
+ - Directed by: Lee Unkrich
+ - Released: 2017-10-27
+ - Id: 4e680fa2-e7d5-4eaa-8fa9-a668e5f753c9created
+2022-10-22T18:09:56.289377900- new * Toy Story 3
+ - Directed by: Lee Unkrich
+ - Released: 2010-06-16
+ - Id: 9b0ff9e7-0916-4c09-ae81-a9b9d664eb1ecreated
+2022-10-22T18:09:56.290051200- new * The Polar Express
+ - Directed by: Robert Zemeckis
+ - Released: 2004-11-10
+ - Id: 1a73835b-4e0f-4889-a9d9-915b3750099fcreated
+2022-10-22T18:09:56.290338900- new * Shrek
+ - Directed by: Andrew Adamson
+ - Released: 2001-05-18
+ - Id: 768becf8-b2b1-4829-ae96-bea46bb28c8bcreated
+2022-10-22T18:09:56.290869500- new * Home Alone
+ - Directed by: Chris Columbus
+ - Released: 1990-11-16
+ - Id: 413204f6-3fa4-410e-954a-0c54d9e8651fcreated
+2022-10-22T18:09:56.291463200- new * Back to the Future Part III
+ - Directed by: Robert Zemeckis
+ - Released: 1990-05-25
+ - Id: 87a92427-4473-498a-a5dc-e5d3c23901edcreated
+2022-10-22T18:09:56.292339- new * Back to the Future
+ - Directed by: Robert Zemeckis
+ - Released: 1985-07-03
+ - Id: ad4a4995-72b4-40a0-8cd5-abb91e335dc2created
+2022-10-22T18:09:56.292521600- new * Back to the Future Part II
+ - Directed by: Robert Zemeckis
+ - Released: 1989-11-22
+ - Id: 8a587510-6f4d-4882-abd4-5c18253998b6created
+2022-10-22T18:09:56.293845800- new * Who Framed Roger Rabbit
+ - Directed by: Robert Zemeckis
+ - Released: 1988-06-21
+ - Id: 91170eeb-9a0d-4512-acf6-fb08be3427f6created
+2022-10-22T18:09:56.294072200- new * The Lord of the Rings: The Fellowship of the Ring
+ - Directed by: Peter Jackson
+ - Released: 2001-12-18
+ - Id: c7e0fd68-8c0d-437d-9ec0-70d882367584created
+2022-10-22T18:09:56.294338900- new * The Lord of the Rings: The Two Towers
+ - Directed by: Peter Jackson
+ - Released: 2002-12-18
+ - Id: 1189b5c9-5145-4d61-be16-23557402f151created
+2022-10-22T18:09:56.294839100- new * The Lord of the Rings: The Return of the King
+ - Directed by: Peter Jackson
+ - Released: 2003-12-01
+ - Id: 210708c6-5888-4e24-98ea-9f9ecfc5677bcreated
+2022-10-22T18:09:56.295839100- new * Rouge One
+ - Directed by: Gareth Edwards
+ - Released: 2016-12-16
+ - Id: 46025050-d70a-4042-85d0-d95eeb796924created
+2022-10-22T18:09:56.296339200- new * The Hitchhiker's Guide to the Galaxy
+ - Directed by: Garth Jennings
+ - Released: 2005-04-28
+ - Id: 54818576-8610-4da3-9eb8-19860c4253cbcreated
+2022-10-22T18:09:56.297839100- new * Star Trek
+ - Directed by: J.J. Abrams
+ - Released: 2009-05-06
+ - Id: 52948fbc-7256-42a9-b863-6123d6462d0dcreated
+2022-10-22T18:09:56.297996800- new * Star Trek II: The Wrath of Khan
+ - Directed by: Nicholas Meyer
+ - Released: 1982-06-04
+ - Id: aa2c2611-27c3-4130-a8a7-b1f36a864d0fcreated
+2022-10-22T18:09:56.298339100- new * Star Trek Into Darkness
+ - Directed by: J.J. Abrams
+ - Released: 2013-05-05
+ - Id: 74403282-ba5c-4ccd-bf78-3e552e7e9843created
+2022-10-22T18:09:56.298842800- new * The Lord of the Rings: The Return of the King
+ - Directed by: Peter Jackson
+ - Released: 2003-12-01
+ - Id: 36db2616-cf75-441e-a18b-1f3889281fb0created
+2022-10-22T18:09:56.299339- new * The Lord of the Rings: The Two Towers
+ - Directed by: Peter Jackson
+ - Released: 2002-12-18
+ - Id: 7f00b046-b87c-4db1-a090-546164312918created
+2022-10-22T18:09:56.299339- new * The Lord of the Rings: The Fellowship of the Ring
+ - Directed by: Peter Jackson
+ - Released: 2001-12-18
+ - Id: 4f187431-04bf-47a9-abc9-e4f411b3fdfccreated
+2022-10-22T18:09:56.299838900- new * Memento
+ - Directed by: Christopher Nolan
+ - Released: 2000-10-11
+ - Id: 330d1c0b-e2f9-4ef0-b903-5ca9ea6b4d44created
+2022-10-22T18:09:56.300143300- new * Inception
+ - Directed by: Christopher Nolan
+ - Released: 2010-07-15
+ - Id: 01343ebc-227c-486a-b2fb-027660f225f7created
+2022-10-22T18:09:56.302339- new * Rouge One
+ - Directed by: Gareth Edwards
+ - Released: 2016-12-16
+ - Id: f31bf7f0-4dc1-4cc3-af22-5e1dc141576fcreated
+2022-10-22T18:09:56.302839200- new * Star Wars
+ - Directed by: George Lucas
+ - Released: 1977-05-25
+ - Id: c372d4f4-24b3-4f0b-bf71-bfa1b509fe72created
+2022-10-22T18:09:56.303339100- new * Back to the Future
+ - Directed by: Robert Zemeckis
+ - Released: 1985-07-03
+ - Id: e904a7b6-2fd5-4313-af56-29eeb9db6c7bcreated
+2022-10-22T18:09:56.303839200- new * Back to the Future Part II
+ - Directed by: Robert Zemeckis
+ - Released: 1989-11-22
+ - Id: 9442cae8-dff6-4f20-a027-5443d08d0927created
+2022-10-22T18:09:56.303839200- new * Back to the Future Part III
+ - Directed by: Robert Zemeckis
+ - Released: 1990-05-25
+ - Id: da9e3409-1a3b-481e-9e10-87688c2377b4created
+2022-10-22T18:09:56.304839100- new * The Fifth Element
+ - Directed by: Luc Besson
+ - Released: 1997-05-02
+ - Id: c4937c4e-7248-41c8-9901-136b3da39430created
+2022-10-22T18:09:56.305339200- new * The Lord of the Rings: The Fellowship of the Ring
+ - Directed by: Peter Jackson
+ - Released: 2001-12-18
+ - Id: 0fb5430f-95b1-4595-a6f1-c833b7cda351created
+2022-10-22T18:09:56.305652- new * The Lord of the Rings: The Two Towers
+ - Directed by: Peter Jackson
+ - Released: 2002-12-18
+ - Id: 6fbeede1-61c5-4296-959b-95970bbf25e4created
+2022-10-22T18:09:56.305936- new * The Lord of the Rings: The Return of the King
+ - Directed by: Peter Jackson
+ - Released: 2003-12-01
+ - Id: e4730a92-b1ca-4628-816d-28e6dfc9c818created
+2022-10-22T18:09:56.306339100- new * Close Encounters of the Third Kind
+ - Directed by: Steven Spielberg
+ - Released: 1977-11-18
+ - Id: 7269d5da-340c-495d-9e47-200aa033c9c0created
+2022-10-22T18:09:56.307339400- new * Star Trek Into Darkness
+ - Directed by: J.J. Abrams
+ - Released: 2013-05-05
+ - Id: 53c7dd9b-d9ca-4f20-a801-d06cffbe1ba4created
+2022-10-22T18:09:56.308344700- new * Jurassic Park
+ - Directed by: Steven Spielberg
+ - Released: 1993-06-11
+ - Id: 4f7cd42b-88d3-4262-b4d5-f65de84bfccdcreated
+2022-10-22T18:09:56.310645400- new * The Hitchhiker's Guide to the Galaxy
+ - Directed by: Garth Jennings
+ - Released: 2005-04-28
+ - Id: 87f898e5-9aef-47d3-9a81-90bc245e8067created
+2022-10-22T18:09:56.312839700- new * Home Alone
+ - Directed by: Chris Columbus
+ - Released: 1990-11-16
+ - Id: 36070409-759f-46c5-84c8-f22e61cbf69ccreated
+2022-10-22T18:21:52.852608400- new * Home Alone
+ - Directed by: Chris Columbus
+ - Released: 1990-11-16
+ - Id: 60c23398-0466-4b5a-99a4-047175860530created
+2022-10-22T18:21:52.853902100- new * Jurassic Park
+ - Directed by: Steven Spielberg
+ - Released: 1993-06-11
+ - Id: 80310117-8ff7-4bf1-a80e-76b28ba157c0created
+2022-10-22T18:21:52.862608300- new * Memento
+ - Directed by: Christopher Nolan
+ - Released: 2000-10-11
+ - Id: 016f7e48-62cf-4754-8573-fcf620efa766created
+2022-10-22T18:21:52.863109400- new * Inception
+ - Directed by: Christopher Nolan
+ - Released: 2010-07-15
+ - Id: 60c3e762-a9fa-4b79-84d6-a15a00d6c951created
+2022-10-22T18:21:52.863608300- new * Interstellar
+ - Directed by: Christopher Nolan
+ - Released: 2014-11-05
+ - Id: 570d9c11-0c92-4dd2-baf1-86e699cffdc7created
+2022-10-22T18:21:52.863812400- new * Rouge One
+ - Directed by: Gareth Edwards
+ - Released: 2016-12-16
+ - Id: c6681829-a194-43e5-afa7-fa0b4536ef11created
+2022-10-22T18:21:52.864108400- new * Contact
+ - Directed by: Robert Zemeckis
+ - Released: 1997-07-11
+ - Id: 476c8cb3-2f76-4ec7-b3ab-c9f56d10885ecreated
+2022-10-22T18:21:52.864642- new * Jurassic Park
+ - Directed by: Steven Spielberg
+ - Released: 1993-06-11
+ - Id: f5ed1eea-2b53-43b1-8276-cbbc3267e772created
+2022-10-22T18:21:52.865108300- new * The Hitchhiker's Guide to the Galaxy
+ - Directed by: Garth Jennings
+ - Released: 2005-04-28
+ - Id: 5959a6a8-cc19-4bd4-a4f1-0ed94ec043cdcreated
+2022-10-22T18:21:52.865609- new * Star Wars
+ - Directed by: George Lucas
+ - Released: 1977-05-25
+ - Id: f018fb99-8a05-4a77-8cc9-5c04b27da019created
+2022-10-22T18:21:52.865609- new * Star Trek
+ - Directed by: J.J. Abrams
+ - Released: 2009-05-06
+ - Id: d4686530-054f-4581-af71-85aa98037890created
+2022-10-22T18:21:52.866144600- new * Star Trek Into Darkness
+ - Directed by: J.J. Abrams
+ - Released: 2013-05-05
+ - Id: 9cae4b2e-0864-4058-9666-03c53dae814acreated
+2022-10-22T18:21:52.867194100- new * Forrest Gump
+ - Directed by: Robert Zemeckis
+ - Released: 1994-07-06
+ - Id: 3c55acf9-9656-4dd3-9f09-b1907ef7a98dcreated
+2022-10-22T18:21:52.867608500- new * Cast Away
+ - Directed by: Robert Zemeckis
+ - Released: 2000-12-22
+ - Id: 662de3a9-3c09-415a-a8dd-6797804ed8d6created
+2022-10-22T18:21:52.868108400- new * The Fifth Element
+ - Directed by: Luc Besson
+ - Released: 1997-05-02
+ - Id: b8e80b59-0367-4ab8-8781-64a0c83b30b3created
+2022-10-22T18:21:52.868608400- new * Close Encounters of the Third Kind
+ - Directed by: Steven Spielberg
+ - Released: 1977-11-18
+ - Id: 75452dee-b4ef-4a14-b957-8183f2d9c174created
+2022-10-22T18:21:52.870108400- new * Star Wars
+ - Directed by: George Lucas
+ - Released: 1977-05-25
+ - Id: 19aa309d-4665-43be-bcad-3a39f8714a45created
+2022-10-22T18:21:52.870108400- new * Jurassic Park
+ - Directed by: Steven Spielberg
+ - Released: 1993-06-11
+ - Id: 8d3f3701-af07-401f-9d03-1d5582142ac9created
+2022-10-22T18:21:52.871108500- new * The Hitchhiker's Guide to the Galaxy
+ - Directed by: Garth Jennings
+ - Released: 2005-04-28
+ - Id: 2685b0e3-1dba-4545-ab45-23c4567b63b4created
+2022-10-22T18:21:52.872608900- new * Finding Nemo
+ - Directed by: Andrew Stanton
+ - Released: 2003-05-30
+ - Id: 478d2b42-fba9-49f6-a8ae-886546432737created
+2022-10-22T18:21:52.872608900- new * WALL·E
+ - Directed by: Andrew Stanton
+ - Released: 2008-06-22
+ - Id: 217b8556-c4f4-421c-8df8-530fb11b6ab5created
+2022-10-22T18:21:52.873152600- new * Coco
+ - Directed by: Lee Unkrich
+ - Released: 2017-10-27
+ - Id: 6c6925ec-c362-4488-9a93-aa2138207c39created
+2022-10-22T18:21:52.873608700- new * Toy Story 3
+ - Directed by: Lee Unkrich
+ - Released: 2010-06-16
+ - Id: 75befe1e-f9fc-4d66-9396-726bf95993dfcreated
+2022-10-22T18:21:52.874363- new * The Polar Express
+ - Directed by: Robert Zemeckis
+ - Released: 2004-11-10
+ - Id: 54a69e9e-88b3-4c8d-bcc3-f714cbd749c0created
+2022-10-22T18:21:52.874608500- new * Shrek
+ - Directed by: Andrew Adamson
+ - Released: 2001-05-18
+ - Id: d4860fbb-2902-46e0-b3cc-ed370172dc7fcreated
+2022-10-22T18:21:52.875286300- new * Home Alone
+ - Directed by: Chris Columbus
+ - Released: 1990-11-16
+ - Id: e5c47cc1-071b-47f5-8670-a0260fe79968created
+2022-10-22T18:21:52.876192- new * Back to the Future Part III
+ - Directed by: Robert Zemeckis
+ - Released: 1990-05-25
+ - Id: 4271e6b6-d9af-40a6-8ff3-b49c81fe4c90created
+2022-10-22T18:21:52.877108400- new * Back to the Future
+ - Directed by: Robert Zemeckis
+ - Released: 1985-07-03
+ - Id: 82f35e0a-2cb2-4f8a-8e90-dddec047c997created
+2022-10-22T18:21:52.877108400- new * Back to the Future Part II
+ - Directed by: Robert Zemeckis
+ - Released: 1989-11-22
+ - Id: 2fad90c9-1b42-443f-b8fc-e7a032a956c5created
+2022-10-22T18:21:52.878608300- new * Who Framed Roger Rabbit
+ - Directed by: Robert Zemeckis
+ - Released: 1988-06-21
+ - Id: 5cb833d5-7fb9-44c1-b0c0-6e5a728b5282created
+2022-10-22T18:21:52.879139700- new * The Lord of the Rings: The Fellowship of the Ring
+ - Directed by: Peter Jackson
+ - Released: 2001-12-18
+ - Id: ced82f0d-a42b-48ea-84aa-e53de834b7adcreated
+2022-10-22T18:21:52.879139700- new * The Lord of the Rings: The Two Towers
+ - Directed by: Peter Jackson
+ - Released: 2002-12-18
+ - Id: e197b6ef-3901-4f4a-baea-bd0ca0c705ebcreated
+2022-10-22T18:21:52.879704900- new * The Lord of the Rings: The Return of the King
+ - Directed by: Peter Jackson
+ - Released: 2003-12-01
+ - Id: 71c6637a-2555-4aaa-b890-72ee2f15435dcreated
+2022-10-22T18:21:52.880609600- new * Rouge One
+ - Directed by: Gareth Edwards
+ - Released: 2016-12-16
+ - Id: 5de85d81-457f-4d77-9a6a-6f1a20cbadf5created
+2022-10-22T18:21:52.881108600- new * The Hitchhiker's Guide to the Galaxy
+ - Directed by: Garth Jennings
+ - Released: 2005-04-28
+ - Id: 6fe8b2a3-3c59-46fe-bf95-04ca3aefdc65created
+2022-10-22T18:21:52.882651200- new * Star Trek
+ - Directed by: J.J. Abrams
+ - Released: 2009-05-06
+ - Id: 5a011283-9580-4557-a979-6e38f0cd8742created
+2022-10-22T18:21:52.883108400- new * Star Trek II: The Wrath of Khan
+ - Directed by: Nicholas Meyer
+ - Released: 1982-06-04
+ - Id: e0e91a0d-23bf-48c0-997e-12aeece43570created
+2022-10-22T18:21:52.883108400- new * Star Trek Into Darkness
+ - Directed by: J.J. Abrams
+ - Released: 2013-05-05
+ - Id: 6c67b7cd-c8ab-4143-8f9a-360ac03176bacreated
+2022-10-22T18:21:52.883833400- new * The Lord of the Rings: The Return of the King
+ - Directed by: Peter Jackson
+ - Released: 2003-12-01
+ - Id: f691bc07-963d-48b2-a4c3-c490d9c6231fcreated
+2022-10-22T18:21:52.884108500- new * The Lord of the Rings: The Two Towers
+ - Directed by: Peter Jackson
+ - Released: 2002-12-18
+ - Id: 9c898ae3-023c-4cc1-9ce5-36c9497efb00created
+2022-10-22T18:21:52.884417- new * The Lord of the Rings: The Fellowship of the Ring
+ - Directed by: Peter Jackson
+ - Released: 2001-12-18
+ - Id: c76b0ed7-2df4-4977-b59f-04f682969f74created
+2022-10-22T18:21:52.884736200- new * Memento
+ - Directed by: Christopher Nolan
+ - Released: 2000-10-11
+ - Id: 8c6277df-f0ba-44a6-a483-2f65271e7cb1created
+2022-10-22T18:21:52.885108500- new * Inception
+ - Directed by: Christopher Nolan
+ - Released: 2010-07-15
+ - Id: 871beeea-a902-42d3-9434-c16135442736created
+2022-10-22T18:21:52.887608400- new * Rouge One
+ - Directed by: Gareth Edwards
+ - Released: 2016-12-16
+ - Id: c015cdf4-d81b-49fc-9fa1-9b70e14e154bcreated
+2022-10-22T18:21:52.887608400- new * Star Wars
+ - Directed by: George Lucas
+ - Released: 1977-05-25
+ - Id: b1c1fd66-8316-4c8e-98d4-a2817884fec8created
+2022-10-22T18:21:52.888391900- new * Back to the Future
+ - Directed by: Robert Zemeckis
+ - Released: 1985-07-03
+ - Id: 5a9a3bf0-febe-43c0-bce3-ae4dd9f214f3created
+2022-10-22T18:21:52.888608200- new * Back to the Future Part II
+ - Directed by: Robert Zemeckis
+ - Released: 1989-11-22
+ - Id: f0a9ecfa-5d1b-4fe5-ac8b-657925b2c045created
+2022-10-22T18:21:52.888608200- new * Back to the Future Part III
+ - Directed by: Robert Zemeckis
+ - Released: 1990-05-25
+ - Id: ae3dde59-dd62-454a-a09a-f4124144e54ccreated
+2022-10-22T18:21:52.889608200- new * The Fifth Element
+ - Directed by: Luc Besson
+ - Released: 1997-05-02
+ - Id: 396c8f95-90b5-4b1e-aeac-f7dd5df6b568created
+2022-10-22T18:21:52.890108300- new * The Lord of the Rings: The Fellowship of the Ring
+ - Directed by: Peter Jackson
+ - Released: 2001-12-18
+ - Id: ddfcc800-e1e4-4fce-b423-7779c52723a7created
+2022-10-22T18:21:52.890108300- new * The Lord of the Rings: The Two Towers
+ - Directed by: Peter Jackson
+ - Released: 2002-12-18
+ - Id: 517e1967-2a71-4191-8a03-88053047be33created
+2022-10-22T18:21:52.890608300- new * The Lord of the Rings: The Return of the King
+ - Directed by: Peter Jackson
+ - Released: 2003-12-01
+ - Id: 4f0d0bd4-a46a-4027-a394-0a81205ae750created
+2022-10-22T18:21:52.890723100- new * Close Encounters of the Third Kind
+ - Directed by: Steven Spielberg
+ - Released: 1977-11-18
+ - Id: a4dc3caf-347c-49ab-9f06-85797a0c2dd1created
+2022-10-22T18:21:52.891608400- new * Star Trek Into Darkness
+ - Directed by: J.J. Abrams
+ - Released: 2013-05-05
+ - Id: 795a245d-ef92-44e3-af12-df68a49a7c30created
+2022-10-22T18:21:52.892108400- new * Jurassic Park
+ - Directed by: Steven Spielberg
+ - Released: 1993-06-11
+ - Id: bc73cfe3-db58-46f2-9770-5617f6dda272created
+2022-10-22T18:21:52.894191800- new * The Hitchhiker's Guide to the Galaxy
+ - Directed by: Garth Jennings
+ - Released: 2005-04-28
+ - Id: c681ac4d-c2cc-4307-8a27-4ec59fd343e5created
+2022-10-22T18:21:52.895608400- new * Home Alone
+ - Directed by: Chris Columbus
+ - Released: 1990-11-16
+ - Id: 92fcec85-0bbd-4d66-925b-8f282194320fcreated

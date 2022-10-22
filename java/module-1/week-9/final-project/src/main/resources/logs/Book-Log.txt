@@ -1,0 +1,368 @@
+2022-10-22T18:09:56.250886900- new * Exhalation
+ - Written by: Ted Chiang
+ - Published: 2008-11-15
+ - Id: dba303f6-d608-40fc-8fd7-45189b9f2549created
+2022-10-22T18:09:56.270839100- new * Good Omens: The Nice and Accurate Prophecies of Agnes Nutter, Witch
+ - Written by: Terry Pratchett & Neil Gaiman
+ - Published: 1990-05-01
+ - Id: 65c9d9ce-6e60-4f8c-a990-f820ae8d660ecreated
+2022-10-22T18:09:56.270839100- new * Foundation
+ - Written by: Isaac Asimov
+ - Published: 1951-08-30
+ - Id: 6604c8ab-9aaa-4254-819e-3fec89645586created
+2022-10-22T18:09:56.271445200- new * Foundation's Edge
+ - Written by: Isaac Asimov
+ - Published: 1982-10-28
+ - Id: 89cf21f4-1a11-4649-97aa-b05ce8fc4859created
+2022-10-22T18:09:56.273340100- new * The Hunger Games
+ - Written by: Suzanne Collins
+ - Published: 2008-09-14
+ - Id: af8b1bfd-e7ed-4e10-98ce-81d5f83515accreated
+2022-10-22T18:09:56.273912- new * Going Postal
+ - Written by: Terry Pratchett
+ - Published: 2004-09-25
+ - Id: 5fc26d92-6011-4724-bd7b-b077158e2635created
+2022-10-22T18:09:56.274912100- new * Making Money
+ - Written by: Terry Pratchett
+ - Published: 2007-09-18
+ - Id: c2bf71e8-8d75-4e1f-bc18-51ff9b7c7d8dcreated
+2022-10-22T18:09:56.276426800- new * Stranger in a Strange Land
+ - Written by: Robert A. Heinlein
+ - Published: 1961-06-01
+ - Id: 068b181f-62aa-4024-96ea-2bebbbb3ca62created
+2022-10-22T18:09:56.280839- new * Exhalation
+ - Written by: Ted Chiang
+ - Published: 2008-11-15
+ - Id: 07930481-7017-433f-a8e7-26cd9b7989a8created
+2022-10-22T18:09:56.285473200- new * Good Omens: The Nice and Accurate Prophecies of Agnes Nutter, Witch
+ - Written by: Terry Pratchett & Neil Gaiman
+ - Published: 1990-05-01
+ - Id: 148ade5e-6c41-484b-819c-6e7b3abdce6ecreated
+2022-10-22T18:09:56.286338900- new * The Hitchhiker's Guide to the Galaxy
+ - Written by: Douglas Adams
+ - Published: 1979-10-12
+ - Id: 8026df2e-3162-414f-be57-fd962225da89created
+2022-10-22T18:09:56.286478500- new * Animal Farm
+ - Written by: George Orwell
+ - Published: 1945-08-17
+ - Id: d82427bc-6d8c-477b-86bb-890899b2f09dcreated
+2022-10-22T18:09:56.287585400- new * Jurassic Park
+ - Written by: Michael Crichton
+ - Published: 1990-11-20
+ - Id: 650abfbd-49fd-425c-9fd4-e1f268d56ce7created
+2022-10-22T18:09:56.287841- new * The Hitchhiker's Guide to the Galaxy
+ - Written by: Douglas Adams
+ - Published: 1979-10-12
+ - Id: cfed885d-069b-4b79-818a-c7dbb7064158created
+2022-10-22T18:09:56.288475900- new * Oh, the Places You'll Go!
+ - Written by: Dr. Seuss
+ - Published: 1990-01-22
+ - Id: 93e843d0-e449-4d3d-8e05-e3e0e207ec66created
+2022-10-22T18:09:56.289599900- new * Stranger in a Strange Land
+ - Written by: Robert A. Heinlein
+ - Published: 1961-06-01
+ - Id: 79570b7f-ac7a-46dd-b3ca-f64222a1fd51created
+2022-10-22T18:09:56.289839- new * The Moon is a Harsh Mistress
+ - Written by: Robert A. Heinlein
+ - Published: 1966-06-02
+ - Id: b028538f-bd07-4a09-b9a4-df54c0c97772created
+2022-10-22T18:09:56.290338900- new * Going Postal
+ - Written by: Terry Pratchett
+ - Published: 2004-09-25
+ - Id: 4f2be420-f4a8-4dad-83e1-ec218978b3d4created
+2022-10-22T18:09:56.291339100- new * Raising Steam
+ - Written by: Terry Pratchett
+ - Published: 2013-11-07
+ - Id: 533df57d-9c13-4592-a4fa-830e57599e87created
+2022-10-22T18:09:56.291839400- new * Making Money
+ - Written by: Terry Pratchett
+ - Published: 2007-09-18
+ - Id: b1696405-3532-4b43-9253-7110364248e9created
+2022-10-22T18:09:56.292838900- new * The Fellowship of the Ring
+ - Written by: J. R. R. Tolkien
+ - Published: 1954-07-29
+ - Id: 122a845d-ef50-43af-a995-d16d77a802bbcreated
+2022-10-22T18:09:56.293168800- new * The Two Towers
+ - Written by: J. R. R. Tolkien
+ - Published: 1954-11-11
+ - Id: 597b76ab-ea95-4e48-955a-232c249a6047created
+2022-10-22T18:09:56.293338900- new * The Return of the King
+ - Written by: J. R. R. Tolkien
+ - Published: 1955-10-20
+ - Id: 7ec94492-41f4-4158-97b8-8411859f67dbcreated
+2022-10-22T18:09:56.296339200- new * Oh, the Places You'll Go!
+ - Written by: Dr. Seuss
+ - Published: 1990-01-22
+ - Id: 041fa199-510b-4ca1-898a-f6b8f30f7e0ccreated
+2022-10-22T18:09:56.296839200- new * The Fellowship of the Ring
+ - Written by: J. R. R. Tolkien
+ - Published: 1954-07-29
+ - Id: fbb0d397-9d49-4a52-b41e-af39645fd15ecreated
+2022-10-22T18:09:56.297130- new * The Two Towers
+ - Written by: J. R. R. Tolkien
+ - Published: 1954-11-11
+ - Id: 0647e3f3-0b4c-4031-af72-4a7c851c8783created
+2022-10-22T18:09:56.297339200- new * The Return of the King
+ - Written by: J. R. R. Tolkien
+ - Published: 1955-10-20
+ - Id: 21211a2e-7382-47f5-a764-1bb4d80d25c9created
+2022-10-22T18:09:56.298576800- new * The Hunger Games
+ - Written by: Suzanne Collins
+ - Published: 2008-09-14
+ - Id: f075fd0f-880c-425a-8378-136dcd7dd4f1created
+2022-10-22T18:09:56.301131500- new * Piranesi
+ - Written by: Susanna Clarke
+ - Published: 2020-09-15
+ - Id: 3a76ca22-9b02-462c-b43b-e6c418b80098created
+2022-10-22T18:09:56.301339100- new * Once Upon an Algorithm
+ - Written by: Martin Erwig
+ - Published: 2017-08-11
+ - Id: 645d4ba4-438d-466f-84e3-db122289728ecreated
+2022-10-22T18:09:56.308839100- new * Raising Steam
+ - Written by: Terry Pratchett
+ - Published: 2013-11-07
+ - Id: 9d9b15d3-5ca9-48e0-9038-bc908eb6efa3created
+2022-10-22T18:09:56.309339- new * Making Money
+ - Written by: Terry Pratchett
+ - Published: 2007-09-18
+ - Id: c1afdec9-718c-4410-91f9-e13ab6b5f2bacreated
+2022-10-22T18:09:56.309339- new * Going Postal
+ - Written by: Terry Pratchett
+ - Published: 2004-09-25
+ - Id: 6613a593-41e7-4f0e-a0b2-5420008a3caecreated
+2022-10-22T18:09:56.309839- new * Exhalation
+ - Written by: Ted Chiang
+ - Published: 2008-11-15
+ - Id: 93eb6831-6fc4-4261-b168-d4c6ca9c0d83created
+2022-10-22T18:09:56.310077600- new * Jurassic Park
+ - Written by: Michael Crichton
+ - Published: 1990-11-20
+ - Id: 3df1cfa0-234b-4543-83ca-98bc4515951dcreated
+2022-10-22T18:09:56.310272900- new * Good Omens: The Nice and Accurate Prophecies of Agnes Nutter, Witch
+ - Written by: Terry Pratchett & Neil Gaiman
+ - Published: 1990-05-01
+ - Id: 715a85f9-119b-4e2f-a932-e13f4e566628created
+2022-10-22T18:09:56.310484600- new * The Hitchhiker's Guide to the Galaxy
+ - Written by: Douglas Adams
+ - Published: 1979-10-12
+ - Id: ea4b20f3-a617-480d-a636-b49b45cd0907created
+2022-10-22T18:09:56.310839200- new * The Two Towers
+ - Written by: J. R. R. Tolkien
+ - Published: 1954-11-11
+ - Id: 032d61a4-f8b6-4cbe-a888-adfb1ae435cecreated
+2022-10-22T18:09:56.311341100- new * The Fellowship of the Ring
+ - Written by: J. R. R. Tolkien
+ - Published: 1954-07-29
+ - Id: 49f81a61-7828-4ea3-a68b-2f51e8b929a9created
+2022-10-22T18:09:56.311839700- new * The Return of the King
+ - Written by: J. R. R. Tolkien
+ - Published: 1955-10-20
+ - Id: c0e624e2-03be-4de3-9af3-81dd8fd9ba0fcreated
+2022-10-22T18:09:56.311983800- new * Animal Farm
+ - Written by: George Orwell
+ - Published: 1945-08-17
+ - Id: 5e210ffd-3497-4c5f-af7f-f79bc9692f5bcreated
+2022-10-22T18:09:56.312199- new * Racing the Beam
+ - Written by: Nick Montfort and Ian Bogost
+ - Published: 2009-03-01
+ - Id: f9685b51-0bc0-43ff-8278-6218ed0da6f4created
+2022-10-22T18:09:56.312339900- new * Programming for the Puzzled
+ - Written by: Srini Devadas
+ - Published: 2017-11-09
+ - Id: 1a84a629-ddc8-49b7-83cc-f434b1267ce6created
+2022-10-22T18:09:56.312339900- new * Once Upon an Algorithm
+ - Written by: Martin Erwig
+ - Published: 2017-08-11
+ - Id: 874a04f0-acfe-4f56-a079-fad87369646acreated
+2022-10-22T18:09:56.313002600- new * The Moon is a Harsh Mistress
+ - Written by: Robert A. Heinlein
+ - Published: 1966-06-02
+ - Id: 613db18a-1509-40c4-a36b-4eab76cd6750created
+2022-10-22T18:09:56.313339900- new * Stranger in a Strange Land
+ - Written by: Robert A. Heinlein
+ - Published: 1961-06-01
+ - Id: 849f9e24-13cb-44f2-b5cd-3f0ccce2564acreated
+2022-10-22T18:21:52.835109500- new * Exhalation
+ - Written by: Ted Chiang
+ - Published: 2008-11-15
+ - Id: af733e4a-d1a9-41af-a6ff-ac1df34ccfcdcreated
+2022-10-22T18:21:52.850608500- new * Good Omens: The Nice and Accurate Prophecies of Agnes Nutter, Witch
+ - Written by: Terry Pratchett & Neil Gaiman
+ - Published: 1990-05-01
+ - Id: 45987094-15ab-41ae-aa52-638aff2d68d9created
+2022-10-22T18:21:52.851108400- new * Foundation
+ - Written by: Isaac Asimov
+ - Published: 1951-08-30
+ - Id: b9b7a22e-0b75-422a-8fb0-b6c66d76f67ccreated
+2022-10-22T18:21:52.851108400- new * Foundation's Edge
+ - Written by: Isaac Asimov
+ - Published: 1982-10-28
+ - Id: 8fc39ae6-795b-4415-ad08-ca3172b56825created
+2022-10-22T18:21:52.853108500- new * The Hunger Games
+ - Written by: Suzanne Collins
+ - Published: 2008-09-14
+ - Id: 11b00ce8-d435-4eae-8bcb-f8789287135bcreated
+2022-10-22T18:21:52.853608300- new * Going Postal
+ - Written by: Terry Pratchett
+ - Published: 2004-09-25
+ - Id: d33eff04-4685-420e-a0f0-c4a4b59c6182created
+2022-10-22T18:21:52.854108400- new * Making Money
+ - Written by: Terry Pratchett
+ - Published: 2007-09-18
+ - Id: cf9f1eb4-a2fb-4e0a-b293-2db853005dc6created
+2022-10-22T18:21:52.855108600- new * Stranger in a Strange Land
+ - Written by: Robert A. Heinlein
+ - Published: 1961-06-01
+ - Id: 807cfd45-8387-47e5-9808-10839e6dbf82created
+2022-10-22T18:21:52.862108300- new * Exhalation
+ - Written by: Ted Chiang
+ - Published: 2008-11-15
+ - Id: 8767e23c-1074-487d-a505-da49f1646130created
+2022-10-22T18:21:52.867827700- new * Good Omens: The Nice and Accurate Prophecies of Agnes Nutter, Witch
+ - Written by: Terry Pratchett & Neil Gaiman
+ - Published: 1990-05-01
+ - Id: 4d24b539-457f-4226-ab5c-880ddd1a2757created
+2022-10-22T18:21:52.868787700- new * The Hitchhiker's Guide to the Galaxy
+ - Written by: Douglas Adams
+ - Published: 1979-10-12
+ - Id: d63bc327-240b-48a5-a44e-8f688226354ecreated
+2022-10-22T18:21:52.869149- new * Animal Farm
+ - Written by: George Orwell
+ - Published: 1945-08-17
+ - Id: 2389cad7-bc1a-4275-8052-3a1b4ca68100created
+2022-10-22T18:21:52.870683700- new * Jurassic Park
+ - Written by: Michael Crichton
+ - Published: 1990-11-20
+ - Id: af6fee57-e3f7-4a8d-afa0-e83054c2ed06created
+2022-10-22T18:21:52.871108500- new * The Hitchhiker's Guide to the Galaxy
+ - Written by: Douglas Adams
+ - Published: 1979-10-12
+ - Id: 9dfefb51-9c03-40e3-827b-bc60a1832c36created
+2022-10-22T18:21:52.872131200- new * Oh, the Places You'll Go!
+ - Written by: Dr. Seuss
+ - Published: 1990-01-22
+ - Id: 175aa331-5e79-4e4f-90ed-d385ab3283e4created
+2022-10-22T18:21:52.873734300- new * Stranger in a Strange Land
+ - Written by: Robert A. Heinlein
+ - Published: 1961-06-01
+ - Id: 040083b1-2553-49df-9e1c-896539570364created
+2022-10-22T18:21:52.874108600- new * The Moon is a Harsh Mistress
+ - Written by: Robert A. Heinlein
+ - Published: 1966-06-02
+ - Id: b4df8cef-485f-4870-bddb-3854abdc5a78created
+2022-10-22T18:21:52.875108500- new * Going Postal
+ - Written by: Terry Pratchett
+ - Published: 2004-09-25
+ - Id: 22c059ae-5f7f-4742-b180-003631acd466created
+2022-10-22T18:21:52.875812200- new * Raising Steam
+ - Written by: Terry Pratchett
+ - Published: 2013-11-07
+ - Id: cd37b717-35e8-47cd-b6d5-3f2295f73ffccreated
+2022-10-22T18:21:52.876608600- new * Making Money
+ - Written by: Terry Pratchett
+ - Published: 2007-09-18
+ - Id: ff617f4d-49f7-4db5-bd72-0deab6f4299acreated
+2022-10-22T18:21:52.877650300- new * The Fellowship of the Ring
+ - Written by: J. R. R. Tolkien
+ - Published: 1954-07-29
+ - Id: f4732c45-8fa7-475c-9948-3a161df22e4ccreated
+2022-10-22T18:21:52.878208900- new * The Two Towers
+ - Written by: J. R. R. Tolkien
+ - Published: 1954-11-11
+ - Id: e8127494-6d02-4d27-bdf0-f5b010e93e7ecreated
+2022-10-22T18:21:52.878608300- new * The Return of the King
+ - Written by: J. R. R. Tolkien
+ - Published: 1955-10-20
+ - Id: ae1fc33b-b03d-41b6-9858-7f926fcb247bcreated
+2022-10-22T18:21:52.881608600- new * Oh, the Places You'll Go!
+ - Written by: Dr. Seuss
+ - Published: 1990-01-22
+ - Id: 620aecba-d981-4434-9fbf-005cf546d6c2created
+2022-10-22T18:21:52.881780800- new * The Fellowship of the Ring
+ - Written by: J. R. R. Tolkien
+ - Published: 1954-07-29
+ - Id: 7e896d72-e106-4f81-a693-a05cc0427cd5created
+2022-10-22T18:21:52.882108400- new * The Two Towers
+ - Written by: J. R. R. Tolkien
+ - Published: 1954-11-11
+ - Id: 0cab7875-ea14-4d54-9532-cf10fc7bf23dcreated
+2022-10-22T18:21:52.882108400- new * The Return of the King
+ - Written by: J. R. R. Tolkien
+ - Published: 1955-10-20
+ - Id: 04c661d6-225a-4219-a096-b7ff3712a06fcreated
+2022-10-22T18:21:52.883608300- new * The Hunger Games
+ - Written by: Suzanne Collins
+ - Published: 2008-09-14
+ - Id: f23dfc01-1aba-49e6-b5a2-40fb8ea6a52acreated
+2022-10-22T18:21:52.885608400- new * Piranesi
+ - Written by: Susanna Clarke
+ - Published: 2020-09-15
+ - Id: 08e0304a-b862-4f3f-998e-0cafa5778b6dcreated
+2022-10-22T18:21:52.886396900- new * Once Upon an Algorithm
+ - Written by: Martin Erwig
+ - Published: 2017-08-11
+ - Id: 2868b735-b5cb-4142-a2df-3e3f14a60706created
+2022-10-22T18:21:52.892718100- new * Raising Steam
+ - Written by: Terry Pratchett
+ - Published: 2013-11-07
+ - Id: 2af29048-1ce6-4943-9a4d-5d0951ba066fcreated
+2022-10-22T18:21:52.892919700- new * Making Money
+ - Written by: Terry Pratchett
+ - Published: 2007-09-18
+ - Id: c4113299-ba33-44db-ad83-b0a4e306271fcreated
+2022-10-22T18:21:52.893134100- new * Going Postal
+ - Written by: Terry Pratchett
+ - Published: 2004-09-25
+ - Id: ec096864-61b7-4d97-968f-2adc404879d8created
+2022-10-22T18:21:52.893363300- new * Exhalation
+ - Written by: Ted Chiang
+ - Published: 2008-11-15
+ - Id: 716baa36-06c7-450a-82b5-2f13f7ce9564created
+2022-10-22T18:21:52.893608200- new * Jurassic Park
+ - Written by: Michael Crichton
+ - Published: 1990-11-20
+ - Id: f7fdd01d-9089-48fe-af13-dac32050004bcreated
+2022-10-22T18:21:52.893608200- new * Good Omens: The Nice and Accurate Prophecies of Agnes Nutter, Witch
+ - Written by: Terry Pratchett & Neil Gaiman
+ - Published: 1990-05-01
+ - Id: 8b334d63-4500-479d-bcaa-7b4aeb71fb50created
+2022-10-22T18:21:52.894108300- new * The Hitchhiker's Guide to the Galaxy
+ - Written by: Douglas Adams
+ - Published: 1979-10-12
+ - Id: 02d3aa49-21c5-4282-be09-03abc2966388created
+2022-10-22T18:21:52.894400300- new * The Two Towers
+ - Written by: J. R. R. Tolkien
+ - Published: 1954-11-11
+ - Id: 6d5fb32c-428d-4006-97bd-d5e5a16d6dbdcreated
+2022-10-22T18:21:52.894608700- new * The Fellowship of the Ring
+ - Written by: J. R. R. Tolkien
+ - Published: 1954-07-29
+ - Id: 951bf31e-9716-43b6-b3ce-caf82f332d7fcreated
+2022-10-22T18:21:52.894806100- new * The Return of the King
+ - Written by: J. R. R. Tolkien
+ - Published: 1955-10-20
+ - Id: 79d12b38-3d02-493a-b6f1-0e8621491606created
+2022-10-22T18:21:52.895108300- new * Animal Farm
+ - Written by: George Orwell
+ - Published: 1945-08-17
+ - Id: d8260c1e-1078-4205-b39c-67d3f36e3625created
+2022-10-22T18:21:52.895237600- new * Racing the Beam
+ - Written by: Nick Montfort and Ian Bogost
+ - Published: 2009-03-01
+ - Id: f24c4eb7-a4b4-4d19-abbf-22b2099526dacreated
+2022-10-22T18:21:52.895237600- new * Programming for the Puzzled
+ - Written by: Srini Devadas
+ - Published: 2017-11-09
+ - Id: 3c0008bb-8a42-4b24-bdc9-3aa1fab06e0ecreated
+2022-10-22T18:21:52.895608400- new * Once Upon an Algorithm
+ - Written by: Martin Erwig
+ - Published: 2017-08-11
+ - Id: 2aad4b34-925c-419d-8382-6da0e95df60ccreated
+2022-10-22T18:21:52.896108300- new * The Moon is a Harsh Mistress
+ - Written by: Robert A. Heinlein
+ - Published: 1966-06-02
+ - Id: 6f2986c9-08da-401a-8be1-c40c36ab6c54created
+2022-10-22T18:21:52.896245900- new * Stranger in a Strange Land
+ - Written by: Robert A. Heinlein
+ - Published: 1961-06-01
+ - Id: 1a4ec393-048a-411c-bdf0-b90e33c3e82fcreated
