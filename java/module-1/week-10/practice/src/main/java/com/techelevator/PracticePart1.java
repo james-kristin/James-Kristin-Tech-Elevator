@@ -1,9 +1,6 @@
 package com.techelevator;
 
-import java.util.ArrayList;
-import java.util.HashMap;
-import java.util.List;
-import java.util.Map;
+import java.util.*;
 
 public class PracticePart1 {
 
@@ -17,7 +14,9 @@ public class PracticePart1 {
 		Q01_removeFraction(8.0, 2.5) -> 3.0
 	*/
 	public double Q01_removeFraction(double numerator, double denominator) {
-		return 0;
+		double doubleAns = numerator / denominator;
+		int intAns = (int) doubleAns;
+		return intAns;
 	}
 
 	/*
@@ -34,6 +33,9 @@ public class PracticePart1 {
 		Q02_isWaterTemperatureExtreme(212) -> true
 	*/
 	public boolean Q02_isWaterTemperatureExtreme(int temperature) {
+		if ( temperature <= 32 || temperature >= 212) {
+			return true;
+		}
 		return false;
 	}
 
@@ -58,6 +60,11 @@ public class PracticePart1 {
 		Q03_isLeapYear(2019) -> false
 	*/
 	public boolean Q03_isLeapYear(int year) {
+		if ( year % 400 == 0) {
+			return true;
+		} else if (year % 4 == 0 && year % 100 != 0) {
+			return true;
+		}
 		return false;
 	}
 
@@ -79,7 +86,38 @@ public class PracticePart1 {
 		Q04_carWashPrice('P', true, true) -> 11
 	*/
 	public int Q04_carWashPrice(char typeOfWash, boolean isMorning, boolean isWeekend) {
-		return 0;
+		if (isMorning) {
+			if (isWeekend) {
+				if (typeOfWash == 'B') {
+					return 9;
+				} else if (typeOfWash == 'P') {
+					return 11;
+				} else {
+					return 13;
+				}
+			} else if (typeOfWash == 'B') {
+				return 7;
+			} else if (typeOfWash == 'P') {
+				return 9;
+			} else {
+				return 11;
+			}
+		} else if (isWeekend) {
+			if (typeOfWash == 'B') {
+				return 10;
+			} else if (typeOfWash == 'P') {
+				return 12;
+			} else {
+				return 14;
+			}
+		} else if (typeOfWash == 'B') {
+			return 8;
+		} else if (typeOfWash == 'P') {
+			return 10;
+		} else {
+			return 12;
+		}
+
 	}
 
 	/*
@@ -96,7 +134,13 @@ public class PracticePart1 {
 		 Q05_sumOfNumbersDivisibleBy7Between(56, 49) -> 0
 	*/
 	public int Q05_sumOfNumbersDivisibleBy7Between(int lowestNumber, int highestNumber) {
-		return 0;
+		int sum = 0;
+		for (int i = lowestNumber; i <= highestNumber; i++) {
+			if (i % 7 == 0) {
+				sum += i;
+			}
+		}
+		return sum;
 	}
 
 	/*
@@ -117,7 +161,19 @@ public class PracticePart1 {
 		Q06_wordBetweenTags("<P>This is between.", "<P>") -> "" // End tag <P> not found.
 	*/
 	public String Q06_stringBetweenTags(String stringToSearch, String tag) {
-		return null;
+		if (stringToSearch.length() > 0) {
+
+
+			if (stringToSearch.contains(tag)) {
+				if (stringToSearch.lastIndexOf(tag) <= 0) {
+					return "";
+				} else {
+					return stringToSearch.substring(stringToSearch.indexOf(tag) + 3, stringToSearch.lastIndexOf(tag));
+				}
+			}
+		}
+		return "";
+
 	}
 
 	/*
@@ -141,7 +197,7 @@ public class PracticePart1 {
 	*/
 	public boolean Q07_isPalindrome(String word) {
 		String reverseWord = "";
-		for (int i = 0; i < word.length(); i++) {
+		for (int i = word.length() - 1; i >= 0; i--) {
 			reverseWord += word.charAt(i);
 		}
 		return word.equalsIgnoreCase(reverseWord);
@@ -166,7 +222,7 @@ public class PracticePart1 {
 	Q08_allowanceCalculator(7, 0, 40) -> 10
 	*/
 	public int Q08_allowanceCalculator(int weekly, int gift, int bonus) {
-		int allowance = weekly + gift + bonus * 4 / 52;
+		int allowance = weekly + ((gift + (bonus * 4)) / 52) ;
 		return allowance;
 	}
 
@@ -191,7 +247,7 @@ public class PracticePart1 {
 	public boolean Q09_isIncreasing(int[] numbers) {
 		boolean result = true;
 		for (int i = 0; i < numbers.length - 1; i++) {
-			if (numbers[i] > numbers[i++]) {
+			if (numbers[i] > numbers[i + 1]) {
 				result = false;
 				break;
 			}
@@ -213,7 +269,15 @@ public class PracticePart1 {
 		Q10_reverseList(new ArrayList<>(List.of())) -> []
 	*/
 	public List<Integer> Q10_reverseList(List<Integer> numbers) {
-		return new ArrayList<>();
+		List<Integer> reverseList = new ArrayList<>();
+		if (numbers.isEmpty()) {
+			return new ArrayList<>();
+		}
+		for (int i = numbers.size() - 1; i >= 0; i--) {
+			reverseList.add(numbers.get(i));
+
+		}
+		return reverseList;
 	}
 
 	/*
@@ -237,6 +301,17 @@ public class PracticePart1 {
 		 	-> {"Dog": 3, "Chicken": 1, "Fish": 1, "Cat": 2, "Dinosaur": 1, "Llama": 1}
 	*/
 	public Map<String, Integer> Q11_idealPets(String[] suggestedPets) {
-		return new HashMap<>();
+		Map<String, Integer> petMap = new HashMap<>();
+		if (suggestedPets.length < 1) {
+			return new HashMap<>();
+		}
+		for (String pet : suggestedPets) {
+			if (petMap.containsKey(pet)) {
+				petMap.put(pet, petMap.get(pet) + 1);
+			} else {
+				petMap.put(pet, 1);
+			}
+		}
+		return petMap;
 	}
 }
